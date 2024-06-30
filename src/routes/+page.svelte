@@ -4,7 +4,10 @@
     </title>
 </svelte:head>
 
-<div class=" bg-red-100 min-h-[23rem] w-[19rem] rounded-lg grid grid-cols-4 gap-1">
+<div class=" bg-red-100 h-[23rem] w-[19rem] rounded-3xl grid grid-cols-4 gap-1 p-6">
+    <div class=" bg-red-300 rounded-full col-span-4 h-12 flex items-center pl-3 mb-3">
+123
+    </div>
   <button>%</button> 
   <button>√</button> 
   <button>CE</button>
