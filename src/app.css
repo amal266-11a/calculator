@@ -3,7 +3,7 @@
 @tailwind components;
 @tailwind utilities;
 button{
-    @apply bg-slate-50 rounded-full h-12 min-w-12 hover:scale-90 transition-all 
+    @apply bg-slate-50 rounded-full h-12 min-w-12 hover:scale-90 transition-all
 }
 body{
     font-family: "Pacifico", cursive;    
